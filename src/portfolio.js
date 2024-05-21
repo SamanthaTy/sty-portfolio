@@ -7,10 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Samantha Ty',
-  role: 'Développeur Fullstack',
+  role: 'Développeuse Fullstack',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: '#',
+    'Après plusieurs années en tant qu’assistante commerciale, j’ai décidé de me reconvertir dans le développement web de part mon intérêt pour la technologie.\nForte de mes diverses expériences à l’étranger, je cherche à appliquer et apporter mes nouvelles connaissances du développement web.\nJe recherche actuellement une entreprise pour une alternance (2 semaines en entreprise/1 semaine en formation).',
+  resume: 'https://www.linkedin.com/in/samantha-ty-johnson/overlay/1716278335649/single-media-viewer/?type=DOCUMENT&profileId=ACoAABEOagUBrITCesMT1Ga-szBX0fXh0lj6rlQ',
   social: {
     linkedin: 'https://www.linkedin.com/in/samantha-ty-johnson/',
     github: 'https://github.com/SamanthaTy',
@@ -21,28 +21,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'MemOrize',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'MemOrize est une application de flashcards pour aider à la révision. Elle vous permet de créer des decks de cartes et dy insérer des cartes avec une question au recto et la réponse au verso.',
+    stack: ['node.js', 'postgreSQL', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com/SamanthaTy/Memorize-Front-v2',
+    livePreview: 'https://memorizesty.netlify.app',
   },
 ]
 
@@ -55,7 +39,7 @@ const skills = [
   'TypeScript',
   'React',
   'Redux',
-  'SASS',
+  'Sass',
   'Git',
   'Node.js',
   'Express.js',

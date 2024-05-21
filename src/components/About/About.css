@@ -1,6 +1,7 @@
 .about {
   flex-direction: column;
   margin-top: 3em;
+  white-space: pre;
 }
 
 .about__name {
@@ -14,6 +15,8 @@
 .about__desc {
   font-size: 1rem;
   max-width: 600px;
+  text-align: center;
+  text-wrap: wrap;
 }
 
 .about__desc,
