@@ -10,7 +10,7 @@ const about = {
   role: 'Développeuse Fullstack',
   description:
     'Après plusieurs années en tant qu’assistante commerciale, j’ai décidé de me reconvertir dans le développement web de part mon intérêt pour la technologie.\nForte de mes diverses expériences à l’étranger, je cherche à appliquer et apporter mes nouvelles connaissances du développement web.\nJe recherche actuellement une entreprise pour une alternance (2 semaines en entreprise/1 semaine en formation).',
-  resume: 'https://www.linkedin.com/in/samantha-ty-johnson/overlay/1716278335649/single-media-viewer/?type=DOCUMENT&profileId=ACoAABEOagUBrITCesMT1Ga-szBX0fXh0lj6rlQ',
+  resume: 'https://drive.google.com/file/d/1uZmLxJo3XUyA-bZSNa470lYGY0MimaOA/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/samantha-ty-johnson/',
     github: 'https://github.com/SamanthaTy',
