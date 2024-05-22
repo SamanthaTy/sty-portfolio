@@ -41,6 +41,7 @@ const skills = [
   'Redux',
   'Sass',
   'Git',
+  'GitHub',
   'Node.js',
   'Express.js',
   'Vite.js',
