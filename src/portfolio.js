@@ -28,7 +28,16 @@ const projects = [
     sourceCode: 'https://github.com/SamanthaTy/Memorize-Front-v2',
     livePreview: 'https://memorizesty.netlify.app',
   },
+  {
+    name: 'ThunkNorris',
+    description:
+      'ThunkNorris est un générateur de blague de Chuck Norris.',
+    stack: ['node.js', 'React', 'Redux', 'Semantic-UI'],
+    sourceCode: 'https://github.com/SamanthaTy/ThunkNorris',
+    livePreview: 'https://thunknorris.netlify.app/',
+  },
 ]
+
 
 const skills = [
   // skills can be added or removed
